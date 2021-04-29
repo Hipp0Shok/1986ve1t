@@ -1,0 +1,9 @@
+.\objects\system_mdr1986ve1t.o: RTE\Device\MDR1986BE1T\system_MDR1986VE1T.c
+.\objects\system_mdr1986ve1t.o: D:\Soft\Keil\ARM\PACK\Keil\MDR1986BExx\1.5.3\Libraries\CMSIS\CM1\DeviceSupport\MDR1986VE1T\inc\MDR1986VE1T.h
+.\objects\system_mdr1986ve1t.o: .\RTE\Device\MDR1986BE1T\MDR32F9Qx_config.h
+.\objects\system_mdr1986ve1t.o: D:\Soft\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\system_mdr1986ve1t.o: D:\Soft\Keil\ARM\PACK\Keil\MDR1986BExx\1.5.3\Libraries\CMSIS\CM1\DeviceSupport\MDR1986VE1T\inc\MDR1986VE1T.h
+.\objects\system_mdr1986ve1t.o: D:\Soft\Keil\ARM\PACK\Keil\MDR1986BExx\1.5.3\Libraries\CMSIS\CM1\CoreSupport\core_cm1.h
+.\objects\system_mdr1986ve1t.o: D:\Soft\Keil\ARM\PACK\Keil\MDR1986BExx\1.5.3\Libraries\CMSIS\CM1\CoreSupport\core_cmInstr.h
+.\objects\system_mdr1986ve1t.o: D:\Soft\Keil\ARM\PACK\Keil\MDR1986BExx\1.5.3\Libraries\CMSIS\CM1\CoreSupport\core_cmFunc.h
+.\objects\system_mdr1986ve1t.o: .\RTE\Device\MDR1986BE1T\system_MDR1986VE1T.h

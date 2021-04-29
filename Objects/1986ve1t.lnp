@@ -1,0 +1,27 @@
+--cpu Cortex-M1
+".\objects\main.o"
+".\objects\startup_mdr1986ve1t.o"
+".\objects\system_mdr1986ve1t.o"
+".\objects\mdr32f9qx_adc.o"
+".\objects\mdr32f9qx_arinc429r.o"
+".\objects\mdr32f9qx_arinc429t.o"
+".\objects\mdr32f9qx_bkp.o"
+".\objects\mdr32f9qx_can.o"
+".\objects\mdr32f9qx_dac.o"
+".\objects\mdr32f9qx_dma.o"
+".\objects\mdr32f9qx_ebc.o"
+".\objects\mdr32f9qx_eeprom.o"
+".\objects\mdr32f9qx_eth.o"
+".\objects\mdr32f9qx_iwdg.o"
+".\objects\mdr32f9qx_mil_std_1553.o"
+".\objects\mdr32f9qx_port.o"
+".\objects\mdr32f9qx_power.o"
+".\objects\mdr32f9qx_rst_clk.o"
+".\objects\mdr32f9qx_ssp.o"
+".\objects\mdr32f9qx_timer.o"
+".\objects\mdr32f9qx_uart.o"
+".\objects\mdr32f9qx_wwdg.o"
+--strict --scatter ".\Objects\1986ve1t.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\1986ve1t.map" -o .\Objects\1986ve1t.axf
